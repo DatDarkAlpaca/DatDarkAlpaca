@@ -41,4 +41,5 @@ Currently working on the [Turnip Engine](https://github.com/DatDarkAlpaca/turnip
 <img alt="WebGL" src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge" />
 <img alt="Vulkan" src="https://img.shields.io/badge/Vulkan-A51E23?style=for-the-badge&logo=vulkan" />
 <img alt="NextJS" src="https://img.shields.io/badge/Next-313131?style=for-the-badge&logo=next.js&logoColor=white" />
+<img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </div>
