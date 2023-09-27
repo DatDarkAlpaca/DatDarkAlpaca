@@ -5,7 +5,7 @@ Take a seat and have some coffee.
 ## About Me
 I'm Paulo (DatAlpaca), a computer engineering student and software developer from Brazil that loves to design games using my poorly made game engines - and never actually finish them.
 
-Currently working on the [Turnip Engine](https://github.com/DatDarkAlpaca/turnip-engine). Go check it out! 
+Currently working on [Sore Crow](https://github.com/DatDarkAlpaca/sore-crow), a language learning tool. Go check it out! 
 
 ### Github Stats
 
