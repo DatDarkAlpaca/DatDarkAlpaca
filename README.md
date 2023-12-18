@@ -5,7 +5,7 @@ Take a seat and have some coffee.
 ## About Me
 I'm Paulo (DatAlpaca), a computer engineering student and software developer from Brazil that loves to design games using my poorly made game engines - and never actually finish them.
 
-Currently working on [Sore Crow](https://github.com/DatDarkAlpaca/sore-crow), a language learning tool. Go check it out! 
+Currently working on a poorly implemented [graphics abstraction](https://github.com/DatDarkAlpaca/turnip-engine/tree/graphics-abstraction) for my [personal engine](https://github.com/DatDarkAlpaca/turnip-engine). Go check it out!
 
 ### Github Stats
 
@@ -40,6 +40,5 @@ Currently working on [Sore Crow](https://github.com/DatDarkAlpaca/sore-crow), a 
 ### Learning
 <img alt="WebGL" src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge" />
 <img alt="Vulkan" src="https://img.shields.io/badge/Vulkan-A51E23?style=for-the-badge&logo=vulkan" />
-<img alt="NextJS" src="https://img.shields.io/badge/Next-313131?style=for-the-badge&logo=next.js&logoColor=white" />
 <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </div>
